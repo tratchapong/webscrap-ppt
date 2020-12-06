@@ -1,0 +1,5 @@
+https://www.aymen-loukil.com/en/blog-en/google-puppeteer-tutorial-with-examples/
+
+
+https://www.codota.com/code/javascript/functions/puppeteer/Page/evaluate
+
