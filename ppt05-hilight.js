@@ -39,10 +39,10 @@ async function playTest(url) {
 })()
 
 
-a Link of highlight
-CSS Selector style :
-#__next > div.sc-bxivhb.Wrapper-bxke0v-0.cPqBNz > div > div > div > div.sc-bxivhb.sc-ifAKCX.Row__Flex-sc-19o4deh-0.khqQeR > div:nth-child(1) > div.sc-bxivhb.Wrapper-bxke0v-0.jKiyLg > a
+// a Link of highlight
+// CSS Selector style :
+// #__next > div.sc-bxivhb.Wrapper-bxke0v-0.cPqBNz > div > div > div > div.sc-bxivhb.sc-ifAKCX.Row__Flex-sc-19o4deh-0.khqQeR > div:nth-child(1) > div.sc-bxivhb.Wrapper-bxke0v-0.jKiyLg > a
 
-Xpath style :
-//*[@id="__next"]/div[2]/div/div/div/div[2]/div[1]/div[1]/a
+// Xpath style :
+// *[@id="__next"]/div[2]/div/div/div/div[2]/div[1]/div[1]/a
 
